@@ -40,3 +40,6 @@ https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&so
 
 아파트실거래가데이터
 https://rt.molit.go.kr/pt/xls/xls.do?mobileAt=
+
+가격지수
+https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0001&vw_cd=MT_ZTITLE&list_id=&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=E1&docId=0138527419&markType=S&itmNm=전국
