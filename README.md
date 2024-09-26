@@ -1,5 +1,9 @@
 # house-pirce-predict
 
+아파트 내부조건과 입지조건을 사용하여 매매가를 예측하는 프로젝트입니다. 근데 이제 머신러닝을 곁들인
+
+
+## 데이터 출처
 편의시설
 * 도시공원정보 (소재지지번주소, 위도, 경도)
 https://www.data.go.kr/tcs/dss/selectStdDataDetailView.do#layer_data_infomation
